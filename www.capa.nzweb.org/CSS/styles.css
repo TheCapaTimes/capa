@@ -1,2 +1,11 @@
+* {
 
+}
 
+menu {
+
+}
+
+menu UL LI {
+	display: block-inline;
+}
