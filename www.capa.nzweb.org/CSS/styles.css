@@ -1,0 +1,32 @@
+* {
+
+}
+
+#menu {
+	width: 100%;
+	margin: auto;
+	text-align: center;
+	background-color: firebrick;
+}
+
+#menu UL {
+	margin: auto;
+	text-align: center;
+}
+#menu UL LI {
+	margin: 3px;
+	padding: 2px;
+	display: inline-block;
+	font-size: 22px;
+	background-color: orange;
+}
+
+#menu UL LI:hover {
+	color:red;
+	background-color: darkcyan;
+	cursor: pointer;
+}
+
+#cajaContenido {
+	text-align: center;
+}
