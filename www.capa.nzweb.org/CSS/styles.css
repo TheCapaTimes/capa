@@ -63,15 +63,20 @@
 	min-width: 380px;
 	max-width: 600px;
 	text-align: center;
+	background-color: white;
 }
+#contenido IMG {
+	width: 100%;
+}
+
 
 /*Beee*/
 #bee {
 	display: none;
 	position: absolute;
-	width 300;
+	width: 200px;
 	height: 200;
-	top: 300px;
+	top: 320px;
 	left: 30%;
 	padding: 30px;
 	border-radius:200px;
