@@ -11,4 +11,4 @@ Repositorio para el desarrollo del proyecto CAPA.
 
 # Colaboradores
 - Raúl Caro ([@fryntiz](https://github.com/fryntiz))
-- María Valderrama ([@mavalro](https://github.com/fryntiz))
+- María Valderrama ([@mavalro](https://github.com/mavalro))
