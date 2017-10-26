@@ -11,8 +11,8 @@
     </HEAD>
 
     <BODY>
-        <?php require title.php ?>
-        <?php require principal_content.php ?>
-        <?php require footer.php ?>
+        <?php require 'title.php'; ?>
+        <?php require 'principal_content.php'; ?>
+        <?php require 'footer.php'; ?>
     </BODY>
 </HTML>
