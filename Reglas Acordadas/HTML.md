@@ -5,15 +5,16 @@
 - Se puede poner en minúsculas para tener consistencia con las etiquetas en minúsculas.
 
 
-## Usar minúsculas en las etiquetas.
+## Usar minúsculas en las etiquetas
 Se recomienda usar minúsculas porque:
 - Mezclar minúsculas y mayúsculas es malo.
 - Los desarrolladores normalmente usan minúsculas.
 - Las minúsculas se ven más limpias.
 - Las minúsculas son más fáciles de escribir.
 
-## Cerrar todos los elementos HTML.
+## Cerrar todos los elementos HTML
 En HTML5 no necesitas cerrar todos los elementos (por ejemplo el elemento ```<p>```), pero es recomendable hacerlo.
+
 Mal:
 ```HTML
 <section>
@@ -31,6 +32,7 @@ Bien:
 
 ## Cerrar elementos vacíos
 En HTML5 es opcional cerrar los elementos vacíos, pero es obligatorio en XHTML y XML.
+
 Mal:
 ```HTML
 <meta charset="utf-8">
@@ -40,7 +42,7 @@ Bien:
 <meta charset="utf-8" />
 ```
 
-## Poner comillas a los valores de los atributos.
+## Poner comillas a los valores de los atributos
 HTML5 permite que no se usen, pero se recomienda porque:
 - Los valores entrecomillados son más fáciles de leer.
 - DEBES usar comillas si el valor contiene espacios.
@@ -61,7 +63,7 @@ Bien:
 <link rel="stylesheet" href="styles.css"> 
 ```
 
-## Evitar lineas de código largas. 
+## Evitar lineas de código largas
 - Intentar evitar lineas de más de 80 carácteres.
 
 ## Espacios en blanco e indentación
