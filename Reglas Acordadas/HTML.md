@@ -71,4 +71,30 @@ Bien:
 
 ## ¿Omitir ```<head>```, ```<html>``` y ```<body>```?
 En HTML5 estas etiquetas pueden ser omitidas.
+
 **No se recomienda hacerlo**
+
+## Metadatos
+- Hacer el elemento ```<title>``` lo más descriptivo posible.
+- El lenguaje y la codificación de carácteres debe ser definida lo antes posible en el documento.
+
+## Comentarios HTML
+- Comentarios de una línea:
+```HTML
+<!-- Esto es un comentario -->
+```
+- Comentarios de varias líneas:
+```HTML
+<!--
+  This is a long comment example. This is a long comment example.
+  This is a long comment example. This is a long comment example.
+-->
+```
+
+## Hojas de estilo y Scripts
+- Usar sintaxis simple para linkear hojas de estilo y scripts.
+
+## Usar minúsculas en los nombres de los archivos
+Algunos servidores web son sensibles a mayúsculas y minúsculas en los nombres de archivo, pero otros servidores no lo son.
+Pasar de uno a otro podría llevar a errores.
+
