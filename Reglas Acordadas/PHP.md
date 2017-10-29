@@ -34,3 +34,6 @@
 
 ## Estructuras de control
 - Espacio entre palabra clave y paréntesis
+- No debe hacer espacio entre el parentesis de aperture y cierre y el contenido del mismo
+- Si debe tener un espacio entre el paréntesis de cierre y el corsé de apertura.
+- El corsé de cierre debe estar una línea después del cuerpo de instrucciones.
