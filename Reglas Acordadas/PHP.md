@@ -22,9 +22,15 @@
 ## Clases
 - Declaradas en **StudlyCaps** donde cada palabra comienza por mayúsculas
 - Class constants MUST be declared in all upper case with underscore separators
+- Llaves delimitadora de bloque no debe estar en la misma línea de la declaración, poner las llaves debajo
+- Al crear una clase siempre hay que poner paréntesis aunque no tenga argumentos pasados al constructor.
+- Las palabras clave ** extends ** e ** implements ** siempre se declaran en la misma línea que el nombre de la clase
 
 ## Métodos
 - Nombres declarados en **camelCase**
 
 ## DATOS
 - Usar la forma abreviada de palabras clave de tipo, es decir, **bool** en lugar de **boolean**, **int** en lugar de **integer**
+
+## Estructuras de control
+- Espacio entre palabra clave y paréntesis
