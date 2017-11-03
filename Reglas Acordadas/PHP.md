@@ -25,7 +25,7 @@
 - Class constants MUST be declared in all upper case with underscore separators.
 - Llaves delimitadora de bloque no debe estar en la misma línea de la declaración, poner las llaves debajo.
 - Al crear una clase siempre hay que poner paréntesis aunque no tenga argumentos pasados al constructor.
-- Las palabras clave ** extends ** e ** implements ** siempre se declaran en la misma línea que el nombre de la clase.
+- Las palabras clave **extends** e **implements** siempre se declaran en la misma línea que el nombre de la clase.
 
 ## Métodos
 - Nombres declarados en **camelCase**.
